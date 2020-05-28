@@ -1,0 +1,186 @@
+body{
+	background-image:url(../images/foto.gif);
+	background-position:center;
+	color:white;
+}
+
+.izquierda{
+    width:500px;
+    color:#FFC623;
+    margin-top:100px;
+}
+
+.navbar {
+  overflow: hidden;
+ ; 
+}
+
+
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.subnav {
+  float: left;
+  overflow: hidden;
+ 
+}
+
+.subnav .subnavbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+
+
+.navbar a:hover, .subnav:hover .subnavbtn {
+  background-color: red;
+}
+
+.subnav-content {
+  display: none;
+  position: absolute;
+  background-color: red;
+  width: 8%;
+  z-index: 1;
+}
+
+
+
+.subnav-content a {
+  float: left;
+  color: white;
+  text-decoration: none;
+}
+
+.subnav-content a:hover {
+  background-color: #eee;
+  color: black;
+}
+
+
+.subnav:hover .subnav-content {
+  display: block;
+}
+.segundo{
+    margin-left:250px;
+}
+.tercero{
+    margin-left:500px;
+}
+.cuarto{
+    margin-left:300px;
+}
+header {
+  margin-left:-20px;
+  margin-top:-20px;
+  overflow: hidden;
+  background: rgba(0,0,0,0.8);
+  padding: 20px 10px;
+  width:100%;
+  height:30px;
+}
+#encabezado{
+
+
+}
+header {
+  display: block;
+}
+#entrar{
+    margin-left:55px;
+}
+#derecha{
+    width:500px;
+    position:relative;
+    margin-left:600px;
+    margin-top:-550px;
+    color:#FF6E6E;
+}
+h1{
+    color:#80FF6E;
+}
+
+.derecha2{
+    background-color:red;
+    width:162px;;
+    margin-left:1250px;
+    color:#23FFFA;
+}
+
+aside{
+color :white
+
+
+margin-left:1240px;
+margin-top:-400px;
+}
+hr.b{
+width: 1px;
+
+height: 500px;
+margin-top:-50px;
+position:relative;
+position:relative;
+margin-left:1200px;
+margin-top:-500px;
+}
+hr.v{
+width: 1px;
+height: 500px;
+margin-top:-50px;
+position:relative;
+margin-left:500px;
+margin-top:-500px;
+}
+font{
+    position:relative;
+    margin-left:450px;
+    
+}
+.footer1{
+    margin-left:200px;
+}
+.footer2{
+    margin-left:1100px;
+    margin-top:-100px;
+}
+.footer3{
+    margin-left:600px;
+    margin-top:-100px;
+    
+}
+.footer3 a:hover{
+    
+    color:red;
+  
+}
+a{
+    color:green;
+}
+a:hover{
+    color:red;
+}
+.h2{
+    color:red;
+}
+footer {
+  background-color: rgba(0,0,0,0.8);
+  padding: 10px;
+  
+  color: white;
+  height:150px;
+  margin-top:170px;
+}

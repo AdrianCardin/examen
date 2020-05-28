@@ -1,0 +1,47 @@
+body{
+	background-image:url(../images/foto.gif);
+	background-position:center;
+	color:white;
+}
+#centro{
+ margin-top:100px;
+    text-align:center;
+}
+.footer1{
+    margin-left:300px;
+}
+.footer2{
+    margin-left:1000px;
+    margin-top:-100px;
+}
+.h2{
+    color:red;
+}
+a{
+    color:green;
+}
+a:hover{
+    color:red;
+}
+.footer3{
+    margin-left:600px;
+    margin-top:-100px;
+    
+    
+}
+.home{
+    color:red;
+}
+.footer3 a:hover{
+    
+    color:red;
+  
+}
+footer {
+  background-color: rgba(0,0,0,0.8);
+  padding: 10px;
+  
+  color: white;
+  height:150px;
+  margin-top:140px;
+}

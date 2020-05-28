@@ -1,0 +1,89 @@
+body{
+	background-image:url(../images/foto.gif);
+	background-position:center;
+	color:white;
+}
+
+ .izquierda{
+    width:500px;
+    color:#FFC623;
+    margin-top:100px;
+}
+h1{
+   margin-left:600px;
+   
+}
+p{
+    color:#0002B2;
+ }
+#fecha{
+   
+    margin-top:50px;
+}
+
+#correo{
+   
+    margin-top:50px;
+}
+
+.domi{
+background-image:url(../images/pizza.jpg);
+    margin-top:50px;
+    margin-left:200px;
+    margin-right:800px;
+    text-align:center;
+    color: black;
+}
+.tesla{
+    color: white;
+    background-color:black;
+    margin-top:-320px;
+    margin-left:800px;
+    margin-right:200px;
+    text-align:center;
+    
+}
+#centro{
+    margin-left:600px;
+    margin-top:50px;
+    margin-right:800px;
+}
+
+.footer1{
+    margin-left:300px;
+}
+.footer2{
+    margin-left:1000px;
+    margin-top:-100px;
+}
+.h2{
+    color:red;
+}
+a{
+    color:green;
+}
+a:hover{
+    color:red;
+}
+.footer3{
+    margin-left:600px;
+    margin-top:-100px;
+    
+    
+}
+.home{
+    color:red;
+}
+.footer3 a:hover{
+    
+    color:red;
+  
+}
+footer {
+  background-color: rgba(0,0,0,0.8);
+  padding: 10px;
+  
+  color: white;
+  height:150px;
+  margin-top:200px;
+}
